@@ -13,7 +13,7 @@ var init = function () {
     var liveOak = LiveOak({
         auth: {
             realm: 'liveoak-apps',
-            clientId: 'todomvc-cordova-client'
+            clientId: 'liveoak.client.todomvc.todomvc-cordova-client'
         }
     });
 
